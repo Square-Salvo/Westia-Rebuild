@@ -1,0 +1,22 @@
+{
+  "name": "westia-rebuild",
+  "version": "0.0.1",
+  "description": "Westia",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Square-Salvo/Westia-Rebuild.git"
+  },
+  "author": "Thiago-Faria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Square-Salvo/Westia-Rebuild/issues"
+  },
+  "homepage": "https://github.com/Square-Salvo/Westia-Rebuild#readme",
+  "devDependencies": {
+    "electron": "^11.0.3"
+  }
+}
