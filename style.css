@@ -1,0 +1,11 @@
+.Menu_Lateral {
+    background: #525252;
+    border-radius: 6px;
+}
+td {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    color: #E4E4E4;
+}

@@ -1,0 +1,11 @@
+<caption>Facções</caption>
+        <tr>
+            <td>Nome</td>
+            <td>Economia</td>
+            <td>Marinha</td>
+        </tr>
+        <tr>
+            <td>Benovia</td>
+            <td>1500</td>
+            <td>60</td>
+        </tr>
