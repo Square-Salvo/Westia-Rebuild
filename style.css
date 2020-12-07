@@ -7,22 +7,28 @@
     background: #181125;
 }
 
-tabe {
-    position: absolute;
+ul {
+    margin-left: -40px;
+}
+
+li {
+    position: relative;
     width: 50px;
     height: 50px;
     left: 15px;
     top: 121px;
     background: #C0392B;
     border-radius: 9px;
+    margin-bottom: 12px; 
     text-align: center;
-    vertical-align:bottom;
-    font-family: Roboto;
+    line-height: 50px;
+    font-family: roboto;
     font-style: normal;
     font-weight: 500;
     font-size: 24px;
     color: #FFFFFF;
     display: inline-block;
+    
 
 }
 
